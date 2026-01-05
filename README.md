@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @quantdev01
 - 👀 I’m interested in getting better
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on new projects and task
 - 📫 How to reach me danielkiyiki00@gmail.com
 
