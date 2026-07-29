@@ -68,23 +68,16 @@ I build beautiful, performant mobile applications with Flutter and turn ideas in
 ## 📈 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=quantdev01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quantdev01&layout=compact&theme=tokyonight&hide_border=true"/>
-
+![GitHub Stats](https://ghstats.dev/api/card?username=quantdev01)
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=quantdev01&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 🌐 Portfolio: danielkiyiki.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/danielkiyiki
+- 🌐 Portfolio: https://danielkiyiki.vercel.app
 - 📧 Email: danielkiyiki00@gmail.com
 
 ---
